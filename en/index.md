@@ -17,11 +17,11 @@ breadcrumbs:
 
 <div class="row">
 	<div class="col-sm-6 col-sm-push-6">
-		<img src="https://www.nrcan.gc.ca/sites/nrcan/files/engagements/green-building-strategy/Full-banner_greenbuilding.jpg" alt="Green buildings banner" class="img-responsive">		
+		<img src="https://www.nrcan.gc.ca/sites/nrcan/files/engagements/green-building-strategy/Full-banner_greenbuilding.jpg" alt="Green buildings banner" class="img-responsive">
 	</div>
 	<div class="col-sm-6 col-sm-pull-6">
-		<p><a href="snippets/">NRCan Snippets</a> Our homes and buildings are where we live, work, study and gather. They are important to our well-being, a strong economy and as spaces for people to gather and interact.</p>		
-	</div>	
+		<p><a href="snippets/">NRCan Snippets</a> Our homes and buildings are where we live, work, study and gather. They are important to our well-being, a strong economy and as spaces for people to gather and interact.</p>
+	</div>
 </div>
 
 <h2>Why green buildings?</h2>
@@ -80,9 +80,9 @@ breadcrumbs:
 
 <h2>Getting there together: The Canada Green Buildings Strategy</h2>
 
-<p>Net-zero GHG emissions in the buildings sector by 2050 is an ambitious goal. <a href="https://budget.gc.ca/2022/home-accueil-en.html">Budget 2022</a> committed $150 million to develop the Canada Green Buildings Strategy.</p> 
+<p>Net-zero GHG emissions in the buildings sector by 2050 is an ambitious goal. <a href="https://budget.gc.ca/2022/home-accueil-en.html">Budget 2022</a> committed $150 million to develop the Canada Green Buildings Strategy.</p>
 
-<p>The strategy will set out measures to accomplish this goal, and actions within the strategy will be sequenced to reduce GHG emissions, create more climate-resilient buildings, increase skilled jobs, and increase investment.</p> 
+<p>The strategy will set out measures to accomplish this goal, and actions within the strategy will be sequenced to reduce GHG emissions, create more climate-resilient buildings, increase skilled jobs, and increase investment.</p>
 
 <p>Improving the resilience of buildings to climate risks such as temperature increases, floods and wildfires is essential to actively address and respond to current and future extreme weather events. This also helps ensure that dwellings are appropriate for their local environment and reduce vulnerability for occupants and the economy.</p>
 

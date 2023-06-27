@@ -10,7 +10,7 @@ breadcrumbs:
     title: Ressources naturelles Canada
     link: https://www.rncan.gc.ca/accueil
   - home:
-    title: Jekyl Site
+    title: Jekyll Site
     link: /fr/
 ---
 

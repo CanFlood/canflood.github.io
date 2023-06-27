@@ -10,7 +10,7 @@ breadcrumbs:
     title: Natural Resources Canada
     link: https://www.nrcan.gc.ca/home
   - home:
-    title: Jekyl Site
+    title: Jekyll Site
     link: /en/
 ---
 
