@@ -55,15 +55,15 @@ collections:
 # 6. Jekyll collections settings
 
 # 7. Site settings
-title: "GCWeb Jekyll TEST" # Site name or title
+title: "CanFlood" # Site name or title
 remote_theme: wet-boew/gcweb-jekyll
-website: "https://nrcan.github.io/gcweb-jekyll-demo/" # URL of your public facing website
+website: "https://canflood.github.io/" # URL of your public facing website
 
 analytics_adobe: ""
 assets: "https://wet-boew.github.io/themes-dist"
-baseurl: "/gcweb-jekyll-demo"
-production_url : https://nrcan.github.io/gcweb-jekyll-demo
-BASE_PATH : https://nrcan.github.io/gcweb-jekyll-demo
+baseurl: "/"
+production_url : https://canflood.github.io/
+BASE_PATH : https://canflood.github.io/
 description:
   en: "NRCan Jekyll variant for GCWeb theme" # English site description and default description
   fr: "RNCan Adaption Jekyll du theme GCWeb" # French site description and default description

@@ -1,29 +1,57 @@
 ---
-title: NRCan Jekyll Test
+title: CanFlood
 altLangPage: /fr/
-dateModified: 2022-11-08
-description: "Home page describing all the components of the Canada.ca theme, named GCWeb."
-layout: home
+dateModified: 2023-06-27
+description: "CanFlood: Open-source flood risk modelling toolbox for Canada"
+#layout: home
+layout: no-container
 language: en
 breadcrumbs:
   - nrcan:
     title: Natural Resources Canada
-    link: https://www.nrcan.gc.ca/home
+    link: https://natural-resources.canada.ca/home
+  - science-and-data:
+    title: Science and Data
+    link: https://natural-resources.canada.ca/science-and-data/21444
+  - science-and-research:
+    title: Science and Research
+    link: https://natural-resources.canada.ca/science-and-data/science-and-research/22038
+  - natural-hazards:
+    title: Natural Hazards
+    link: https://natural-resources.canada.ca/science-and-data/science-and-research/natural-hazards/10657
+  - flood-mapping:
+    title: Flood Mapping
+    link: https://natural-resources.canada.ca/science-and-data/science-and-research/natural-hazards/flood-mapping/24223
+  - flood-mapping-types-and-process:
+    title: Types and Process
+    link: https://natural-resources.canada.ca/science-and-data/science-and-research/natural-hazards/flood-mapping-types-and-process/24264
 ---
 
 {::nomarkdown}
-<div class="container">
-	<h1 id="wb-cont" property="name">NRCan Jekyll Test</h1>
 
+<div class="container">
+<h1 id="wb-cont" property="name">CanFlood</h1>
 <div class="row">
-	<div class="col-sm-6 col-sm-push-6">
-		<img src="https://www.nrcan.gc.ca/sites/nrcan/files/engagements/green-building-strategy/Full-banner_greenbuilding.jpg" alt="Green buildings banner" class="img-responsive">
+	<div class="col-sm-4 col-sm-push-8">
+		<img src="../assets/logo_20210419_500.png" alt="CanFlood logo" class="img-responsive">
 	</div>
-	<div class="col-sm-6 col-sm-pull-6">
-		<p><a href="snippets/">NRCan Snippets</a> Our homes and buildings are where we live, work, study and gather. They are important to our well-being, a strong economy and as spaces for people to gather and interact.</p>
+	<div class="col-sm-8 col-sm-pull-4">
+		<p><strong>CanFlood</strong> is an open-source flood risk calculation toolkit designed for Canada. It is freely available online via <a href="https://github.com/NRCan/CanFlood" target="_blank">GitHub</a> or as a plugin for <a href="https://www.qgis.org/fr/site/" target="_blank">QGIS</a> software.</p>
+		<p>Note: This page is currently a quick demo and proof-of-concept.  Many thanks to Eric Goodwin for providing a GCWeb Jekyll demo starter site specifically tailored for NRCan so it is a lot easier for us to create a welcome landing page ourselves!</p>
+		<p><a href="https://dev.ibiviz.com/canada/canflood/" target="_blank">Watch the CanFlood Launch Party (May 4, 2021)</a> for ideas on future additions to this web page!</p>
 	</div>
 </div>
+</div>
 
+<div class="row">
+	<nav class="well well-lg mrgn-tp-md">
+		<div class="container">
+            <p><em>The following are demo contents provided by Eric to demonstrate GCWeb’s features. They will be replaced with CanFlood contents in due time.</em></p>
+		</div>
+	</nav>
+</div>
+
+<div class="container">
 <h2>Why green buildings?</h2>
 
 <p>The climate crisis demands immediate action to reduce greenhouse gas (GHG) emissions and develop climate-resilient buildings. <strong>Green buildings</strong> reflect a sustainable and comprehensive approach to improving the energy efficiency of buildings and reducing their emissions to ensure a healthier environment and future for all Canadians.</p><div class="row wb-eqht wb-init wb-eqht-inited" id="wb-auto-4">

@@ -1,31 +1,55 @@
 ---
-title: Test Jekyll de RNCan
+title: CanFlood
 altLangPage: /en/
-dateModified: 2022-11-08
+dateModified: 2023-06-27
 description: "Page d’accueil décrivant l’ensemble des composants du thème de Canada.ca, nommé GCWeb."
 layout: no-container
 language: fr
 breadcrumbs:
   - rncan:
     title: Ressources naturelles Canada
-    link: https://www.rncan.gc.ca/accueil
-  - oee:
-    title: Efficacité énergétique
-    link: https://www.rncan.gc.ca/efficacite-energetique/10833
+    link: https://ressources-naturelles.canada.ca/accueil
+  - science-et-données:
+    title: Science et données
+    link: https://ressources-naturelles.canada.ca/science-et-donnees/21445
+  - science-et-recherche:
+    title: Science et recherche
+    link: https://ressources-naturelles.canada.ca/science-et-donnees/science-et-recherche/22039
+  - dangers-naturels:
+    title: Dangers naturels
+    link: https://ressources-naturelles.canada.ca/science-et-donnees/science-et-recherche/dangers-naturels/10668
+  - cartographie-des-inondations:
+    title: Cartographie des inondations
+    link: https://ressources-naturelles.canada.ca/science-et-donnees/science-et-recherche/dangers-naturels/cartographie-des-inondations/24228
+  - types-et-processus:
+    title: Types et processus
+    link: https://ressources-naturelles.canada.ca/types-et-processus-de-cartographie-des-inondations/24265
 ---
 
 {::nomarkdown}
 <div class="container">
-	<h1 id="wb-cont" property="name">Test Jekyll de RNCan</h1>
+<h1 id="wb-cont" property="name">CanFlood</h1>
 <div class="row">
-	<div class="col-sm-6 col-sm-push-6">
-		<img src="https://www.rncan.gc.ca/sites/nrcan/files/engagements/green-building-strategy/Full-banner_greenbuilding.jpg" alt="" class="img-responsive">
+	<div class="col-sm-4 col-sm-push-8">
+		<img src="../assets/logo_20210419_500.png" alt="Logo de CanFlood" class="img-responsive">
 	</div>
-	<div class="col-sm-6 col-sm-pull-6">
-		<p>Nos domiciles et nos bâtiments sont les endroits où nous vivons, travaillons, étudions et nous réunissons. Ils sont importants pour notre bien-être, pour une économie forte et comme espaces de rassemblement et d’interaction.</p>
+	<div class="col-sm-8 col-sm-pull-4">
+		<p><strong>CanFlood</strong> est une boîte à outils de calcul des risques d’inondation au code source ouvert conçue pour le Canada. Elle est disponible gratuitement en ligne via <a href="https://github.com/NRCan/CanFlood" target="_blank">GitHub</a> ou comme plug-in dans le logiciel <a href="https://www.qgis.org/fr/site/" target="_blank">QGIS</a>.</p>
+		<p>Note : Cette page est actuellement une démonstration rapide et une preuve de concept. Nous remercions Eric Goodwin d'avoir fourni un site de démonstration Jekyll de GCWeb spécialement conçu pour RNCan, de sorte qu’il est beaucoup plus facile pour nous de créer une page d’accueil nous-mêmes!
+		<p><a href="https://dev.ibiviz.com/canada/canflood/" target="_blank">Surveillez la soirée de lancement de CanFlood (4 mai 2021)</a> pour avoir des idées sur les futurs ajouts à cette page web!</p>
 	</div>
 </div>
+</div>
 
+<div class="row">
+	<nav class="well well-lg mrgn-tp-md">
+		<div class="container">
+			<p><em>Les éléments suivants sont des contenus de démonstration fournis par Eric pour démontrer les caractéristiques de GCWeb. Ils seront remplacés par le contenu de CanFlood en temps voulu.</em></p>
+		</div>
+	</nav>
+</div>
+
+<div class="container">
 <h2>Pourquoi des bâtiments verts?</h2>
 
 <p>La crise climatique exige des mesures immédiates pour réduire les émissions de gaz à effet de serre (GES) et construire des bâtiments résilients au changement climatique. Les <strong>bâtiments verts</strong> reflètent une approche durable et globale visant à améliorer l’efficacité énergétique des bâtiments et à réduire leurs émissions afin d’assurer un environnement et un avenir plus sains pour tous les Canadiens.</p><div class="row wb-eqht wb-init wb-eqht-inited" id="wb-auto-4">
@@ -86,9 +110,9 @@ breadcrumbs:
 
 <h2>Nous y arriverons ensemble&nbsp;: La Stratégie canadienne pour les bâtiments verts</h2>
 
-<p>La carboneutralité dans le secteur du bâtiment d’ici 2050 est un objectif ambitieux. Le <a href="https://budget.gc.ca/2022/home-accueil-fr.html">budget de 2022</a> prévoit 150&nbsp;millions de dollars pour l’élaboration de la Stratégie canadienne pour les bâtiments verts.</p>
+<p>La carboneutralité dans le secteur du bâtiment d’ici 2050 est un objectif ambitieux. Le <a href="https://budget.gc.ca/2022/home-accueil-fr.html">budget de 2022</a> prévoit 150&nbsp;millions de dollars pour l’élaboration de la Stratégie canadienne pour les bâtiments verts.</p> 
 
-<p>Pour atteindre cet objectif, la stratégie énoncera des mesures dans l’ordre pour réduire les émissions de GES, créer des bâtiments plus résilients au changement climatique, augmenter les emplois qualifiés et accroître les investissements.</p>
+<p>Pour atteindre cet objectif, la stratégie énoncera des mesures dans l’ordre pour réduire les émissions de GES, créer des bâtiments plus résilients au changement climatique, augmenter les emplois qualifiés et accroître les investissements.</p> 
 
 <p>Il est essentiel d’améliorer la résilience des bâtiments aux risques climatiques tels que les hausses de température, les inondations et les incendies de forêt pour pouvoir faire face et réagir activement aux événements météorologiques extrêmes actuels et futurs. Cela permet également de s’assurer que les logements sont adaptés à leur milieu local et de réduire la vulnérabilité des occupants et de l’économie.</p>
 
@@ -104,7 +128,6 @@ breadcrumbs:
 <h2>Tenez-vous au courant de la stratégie</h2>
 
 <p><a href="https://www.rncan.gc.ca/efficacite-energetique/batiments-verts/inscrivez-vous-pour-recevoir-des-mises-jour-sur-la-strategie-canadienne-pour-les-bati/24564">Inscrivez-vous pour recevoir des mises à jour sur la Stratégie canadienne pour les bâtiments verts</a>.</p>
-
 
 </div>
 {:/}
